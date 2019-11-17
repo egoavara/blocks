@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "array": "c",
+        "deque": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "initializer_list": "c",
+        "myi2ce.h": "c",
+        "*.tcc": "c",
+        "wire.h": "c",
+        "istream": "cpp",
+        "typeinfo": "cpp",
+        "algorithm": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
